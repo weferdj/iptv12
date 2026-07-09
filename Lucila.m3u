@@ -1,115 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/volleyball.png" group-title="🏆 | TELEMUNDO 
+#EXTINF:-1 group-title="🏆 | CANALES",Telemundo
 http://38.49.142.66:8000/play/a0mg/index.m3u8
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/volleyball.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",04:20 - Nations League Fem Japan v Thailand - Voleibol
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446501.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r56fF0a.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",04:25 - Tour de France: Stage 6 - Ciclismo
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446502.ts
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/volleyball.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",06:30 - Nations League Fem China v Ukraine - Voleibol
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446503.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/drnGLPj.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",06:30 - Semifinales femeninas En español - Wimbledon
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446504.ts
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/volleyball.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",08:30 - Nations League Fem Czechia v Netherlands - Voleibol
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446505.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",10:35 - MLB 01 - Braves vs Pirates
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | MLB",10:35 VET - MLB 01 - Braves vs Pirates
 http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446506.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",11:10 - MLB 02 - Mets vs Royals
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | MLB",11:10 VET - MLB 02 - Mets vs Royals
 http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446507.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",11:10 - MLB 03 - Rays vs Yankees
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | MLB",11:10 VET - MLB 03 - Rays vs Yankees
 http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446508.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",11:40 - MLB 04 - Twins vs Guardians
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | MLB",11:40 VET - MLB 04 - Twins vs Guardians
 http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446509.ts
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/volleyball.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",12:00 - Nations League Fem Serbia v France - Voleibol
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446510.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",12:10 - MLB 05 - White Sox vs Red Sox
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | MLB",12:10 VET - MLB 05 - White Sox vs Red Sox
 http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446511.ts
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/golf-eventos.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",14:00 - ISCO Championship - PGA Tour
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446512.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",14:30 - NBA 01 - Spurs vs. Hawks
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446513.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",14:30 - NBA 02 - Spurs vs. Hawks Español
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446514.ts
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2018/09/Futures-Collegiate-Baseball-League-logo.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",16:30 - Beisbol - Collegiate League North Shore vs. Danbury
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446515.ts
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2018/09/Futures-Collegiate-Baseball-League-logo.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",16:30 - Beisbol - Collegiate League Valley vs. North Adams
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446516.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",16:35 - MLB 06 - Orioles vs Cubs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | MLB",16:35 VET - MLB 06 - Orioles vs Cubs
 http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446517.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",16:40 - MLB 07 - Tigers vs Athletics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | MLB",16:40 VET - MLB 07 - Tigers vs Athletics
 http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446518.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",16:40 - MLB 08 - Marlins vs Mariners
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | MLB",16:40 VET - MLB 08 - Marlins vs Mariners
 http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446519.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EwGr5xV.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",17:00 - Copa Chile - Ñublense vs O\'Higgins
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446520.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",17:00 - NBA 03 - Warriors vs. Mavericks Español
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446521.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",17:00 - NBA 04 - Warriors vs. Mavericks
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446522.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",17:10 - MLB 09 - Reds vs Phillies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | MLB",17:10 VET - MLB 09 - Reds vs Phillies
 http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446523.ts
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/166/5002/full/aaipb__logo_primary_2021_sportslogosnet-8364.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",17:35 - Beisbol - AAPB Sioux City Explorers vs Fargo Moorhead
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446524.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",17:45 - MLB 10 - Cardinals vs Brewers
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | MLB",17:45 VET - MLB 10 - Cardinals vs Brewers
 http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446525.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3WZif85.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",18:00 - WNBA 01 - Storm vs. Dream
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446526.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",18:05 - MLB 11 - Angels vs Rangers
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | MLB",18:05 VET - MLB 11 - Angels vs Rangers
 http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446527.ts
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/lmb.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",18:30 - LMB 01 - Dos Laredos vs Monclova
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446528.ts
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Canadian-Football-League-CFL.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",19:00 - F Americano - CFL Edmonton Elks vs Ottawa Redblacks
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446529.ts
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/lmb.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",19:00 - LMB 02 - Chihuahua vs Laguna
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446530.ts
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/lmb.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",19:00 - LMB 03 - Querertaro vs Quintana Roo
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446531.ts
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/lmb.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",19:00 - LMB 04 - Veracruz vs Oaxaca
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446532.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",19:00 - NBA 05 - Jazz vs. Wizards Español
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446533.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",19:00 - NBA 06 - Jazz vs. Wizards
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446534.ts
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/lmb.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",19:30 - LMB 05 - Aguascalientes vs Toros de Tijuana
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446535.ts
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/lmb.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",19:30 - LMB 06 - Bravos de Leon vs Puebla
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446536.ts
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/lmb.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",19:30 - LMB 07 - Charros de Jalisco vs Sultanes de Monterrey
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446537.ts
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/lmb.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",19:30 - LMB 08 - Saltillo vs Caliente de Durango
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446538.ts
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/lmb.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",19:30 - LMB 09 - Tabasco vs Diablos Rojos
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446539.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",19:40 - MLB 12 - Padres vs Diamondbacks
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | MLB",19:40 VET - MLB 12 - Padres vs Diamondbacks
 http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446540.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",19:45 - MLB 13 - Giants vs Rockies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="🏆 | MLB",19:45 VET - MLB 13 - Giants vs Rockies
 http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446541.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3WZif85.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",20:00 - WNBA 02 - Fever vs. Mercury
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446542.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",21:00 - NBA 07 - Kings vs. Clippers
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446543.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/NBL_Logo.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",22:00 - Basket - NBL Nuggets vs. Bulls
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446544.ts
-#EXTINF:-1 tvg-logo="https://contentmasters.app/logos/volleyball.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",22:00 - Nations League Fem USA v Türkiye - Voleibol
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446545.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rsSVCBR.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",NFL Network
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446546.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/1200px-WWE_official_logo.svg.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",PPV BOX | WWE Channel
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446547.ts
-#EXTINF:-1 tvg-logo="https://s.yimg.com/ny/api/res/1.2/3EEN3zL5JbobsgGu6fMkug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/wrestle_zone_910/8726fb1effb0efe9401a23536ae8d492" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",PPV BOX | WWE SMACKDOWN (SOLO EVENTOS)
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446548.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ge77Z8_bMAAQofn?format=jpg&name=large" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",PPV BOX | WWE RAW (SOLO EVENTOS)
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446549.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/NXT2024.jpg" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",PPV BOX | WWE NXT (SOLO EVENTOS)
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446550.ts
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/s3VKv041cd_2fI5QdEG6T8IvDkLepdRKofk3ztEjRwb2TkH3UQIGtchzR-SX-KFxPeBeXIMKlw=s900-c-k-c0x00ffffff-no-rj" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",PPV BOX | TITAN
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446551.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/All_Elite_Wrestling_logo_2024.svg/1200px-All_Elite_Wrestling_logo_2024.svg.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",PPV BOX | AEW TBS
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446552.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/All_Elite_Wrestling_logo_2024.svg/1200px-All_Elite_Wrestling_logo_2024.svg.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",PPV BOX | AEW FOX SPORTS PREMIUM
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446553.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXeDip0403HsCh2IAcjCZmfiaPaCDRzR54GQ&s" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",PPV BOX | UFC FIGHT PASS
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446554.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhnFFS1IZktlgI0c7s0K4L2C19jQH1Ptv9Jw&s" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",PPV BOX | USA NETWORK OP1
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446555.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhnFFS1IZktlgI0c7s0K4L2C19jQH1Ptv9Jw&s" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",PPV BOX | USA NETWORK OP2
-http://jametv.lat:8080/live/iptvchilenowp1919/QyrfB6nZGMns/446556.ts
