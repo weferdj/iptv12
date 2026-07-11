@@ -1,1 +1,11 @@
-ttyhhhhh
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="",DSPORT +
+http://magiz.net:80/live/12345678/12345678/107.ts
+EXTINF:-1 tvg-logo="",DSPORT1
+http://190.238.43.117:9000/play/a09d
+#EXTINF:-1 tvg-logo="",Warner
+http://45.70.168.162:1503/play/a00c
+#EXTINF:-1 tvg-logo="",Telemundo US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/G5QWLX4ULATGK7/1080/index.m3u8
+
