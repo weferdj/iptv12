@@ -1,1 +1,28 @@
+#EXTM3U
+#EXTINF:-1 group-title="Pruebas",Canal Neoyjpw (Probarlo)
+http://neoyjpw.top:8080/live/9441749895311793/ce8372b064a5/73772.ts
+#EXTINF:-1 group-title="DECO 3",DECO 3-1 ESPN 7
+http://38.19.16.151:8000/play/a09k
+#EXTINF:-1 group-title="DECO 3",DECO 3-2 ESPN 6
+http://38.19.16.151:8000/play/a09l
+#EXTINF:-1 group-title="DECO 3",DECO 3-3 ESPN 5
+http://38.19.16.151:8000/play/a09m
+#EXTINF:-1 group-title="DECO 3",DECO 3-4 TL NOVELAS
+http://38.19.16.151:8000/play/a09n
+#EXTINF:-1 group-title="DECO 3",DECO 3-5 Directv Plus
+http://38.19.16.151:8000/play/a0a3
+#EXTINF:-1 group-title="DECO 3",DECO 3-6 Directv
+http://38.19.16.151:8000/play/a0a4
+#EXTINF:-1 group-title="DECO 3",DECO 3-7 Directv 2
+http://38.19.16.151:8000/play/a0a5
+#EXTINF:-1 group-title="DECO 3",DECO 3-8 Disney Jr.
+http://38.19.16.151:8000/play/a0a6
+#EXTINF:-1 group-title="DECO TR4",DECO TR4 ESPN 1
+http://38.19.16.151:8000/play/a0an
+#EXTINF:-1 group-title="DECO TR4",DECO TR4 ESPN 2
+http://38.19.16.151:8000/play/a0ao
+#EXTINF:-1 group-title="DECO TR4",DECO TR4 ESPN 3
+http://38.19.16.151:8000/play/a0ap
+#EXTINF:-1 group-title="DECO TR4",DECO TR4 ESPN 4
+http://38.19.16.151:8000/play/a0aq
 
