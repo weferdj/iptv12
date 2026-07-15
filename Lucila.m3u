@@ -1,1 +1,3 @@
-ttttt
+#EXTM3U
+#EXTINF:-1, DirecTV Mundial
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1090802&extension=ts&play_token=uznw3aXpYc
