@@ -1,1 +1,5 @@
-qq
+#EXTM3U
+#EXTINF:-1, DirecTV 
+http://38.19.16.151:8000/play/a0v7
+
+
