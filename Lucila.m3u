@@ -1,1 +1,126 @@
-6568(44555
+
+#EXTM3U x-tvg-url=""
+
+# ==========================================
+# CATEGORÍA: ⚾ MLB & BÉISBOL
+# ==========================================
+#EXTINF:-1 tvg-id="MLB.Network" tvg-name="MLB Network" group-title="⚾ MLB & Béisbol",MLB Network
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=858531&extension=ts&play_token=trfre3YMst
+#EXTINF:-1 tvg-id="MLB" tvg-name="MLB" group-title="⚾ MLB & Béisbol",MLB
+http://4ksdreams.com:80/live/574Y2T2W75YTEQG/3ogU1g4Tna/302488.ts
+
+# ==========================================
+# CATEGORÍA: 🏀 NBA & BALONCESTO
+# ==========================================
+#EXTINF:-1 tvg-id="NBA" tvg-name="NBA" group-title="🏀 NBA & Baloncesto",NBA
+http://4ksdreams.com:80/live/574Y2T2W75YTEQG/3ogU1g4Tna/71986.ts
+
+# ==========================================
+# CATEGORÍA: ⚽ DEPORTES GENERALES
+# ==========================================
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2" group-title="⚽ Deportes Generales",Fox Sports 2
+http://190.83.85.68:80/fox_sports_2/index.m3u8
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports" group-title="⚽ Deportes Generales",Band Sports
+http://190.83.85.68:80/band_sports/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="⚽ Deportes Generales",ESPN
+http://190.83.85.68:80/espn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" group-title="⚽ Deportes Generales",ESPN 2
+http://190.83.85.68:80/espn2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.Alt" tvg-name="ESPN 2 (Alt)" group-title="⚽ Deportes Generales",ESPN 2 (Alt)
+http://191.97.61.32:8000/play/a091/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" group-title="⚽ Deportes Generales",ESPN 3
+http://190.83.85.68:80/espn3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN 4" group-title="⚽ Deportes Generales",ESPN 4
+http://190.83.85.68:80/espn4/index.m3u8
+
+# ==========================================
+# CATEGORÍA: 🎬 CINE & PELÍCULAS
+# ==========================================
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" group-title="🎬 Cine & Películas",AMC
+http://190.83.85.68:80/amc/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="🎬 Cine & Películas",AXN
+http://190.83.85.68:80/axn/index.m3u8
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E" group-title="🎬 Cine & Películas",A&E
+http://190.83.85.68:80/ae/index.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="🎬 Cine & Películas",HBO
+http://190.83.85.68:80/hbo/index.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" group-title="🎬 Cine & Películas",HBO 2
+http://190.83.85.68:80/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family" group-title="🎬 Cine & Películas",HBO Family
+http://190.83.85.68:80/hbo_family/index.m3u8
+#EXTINF:-1 tvg-id="HBOMundi" tvg-name="HBO Mundi" group-title="🎬 Cine & Películas",HBO Mundi
+http://190.83.85.68:80/hbo_mundi/index.m3u8
+#EXTINF:-1 tvg-id="HBOPop" tvg-name="HBO Pop" group-title="🎬 Cine & Películas",HBO Pop
+http://190.83.85.68:80/hbo_pop/index.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme" tvg-name="HBO Xtreme" group-title="🎬 Cine & Películas",HBO Xtreme
+http://190.83.85.68:80/hbo_xtreme/index.m3u8
+#EXTINF:-1 tvg-id="HBOPlus" tvg-name="HBO Plus" group-title="🎬 Cine & Películas",HBO Plus
+http://190.83.85.68:80/hbo_plus/index.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" group-title="🎬 Cine & Películas",TCM
+http://190.83.85.68:80/tcm/index.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" group-title="🎬 Cine & Películas",Space
+http://190.83.85.68:80/space/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" group-title="🎬 Cine & Películas",Cinemax
+http://190.83.85.68:80/cinemax/index.m3u8
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" group-title="🎬 Cine & Películas",Megapix
+http://190.83.85.68:80/megapix/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal" tvg-name="Studio Universal" group-title="🎬 Cine & Películas",Studio Universal
+http://190.83.85.68:80/studiouniversal/index.m3u8
+#EXTINF:-1 tvg-id="TelecinePipoca" tvg-name="Telecine Pipoca" group-title="🎬 Cine & Películas",Telecine Pipoca
+http://190.83.85.68:80/telecine_pipoca/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="Warner Channel" group-title="🎬 Cine & Películas",Warner Channel
+http://190.83.85.68:80/warner/index.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" group-title="🎬 Cine & Películas",TNT
+http://190.83.85.68:80/tnt/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas" tvg-name="TNT Novelas" group-title="🎬 Cine & Películas",TNT Novelas
+http://190.83.85.68:80/tnt_novelas/index.m3u8
+#EXTINF:-1 tvg-id="TNTSeries" tvg-name="TNT Series" group-title="🎬 Cine & Películas",TNT Series
+http://190.83.85.68:80/tnt_series/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel" tvg-name="Sony Channel" group-title="🎬 Cine & Películas",Sony Channel
+http://190.83.85.68:80/sony/index.m3u8
+
+# ==========================================
+# CATEGORÍA: 📺 VARIEDADES & DOCUMENTALES
+# ==========================================
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="📺 Variedades & Documentales",TLC
+http://190.83.85.68:80/tlc/index.m3u8
+#EXTINF:-1 tvg-id="Curta" tvg-name="Curta!" group-title="📺 Variedades & Documentales",Curta!
+http://190.83.85.68:80/curta/index.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" group-title="📺 Variedades & Documentales",Globo
+http://190.83.85.68:80/globo/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel" group-title="📺 Variedades & Documentales",Discovery Channel
+http://190.83.85.68:80/discovery/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryID" tvg-name="Discovery ID" group-title="📺 Variedades & Documentales",Discovery ID
+http://190.83.85.68:80/id/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="Discovery Science" group-title="📺 Variedades & Documentales",Discovery Science
+http://190.83.85.68:80/discovery_science/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld" tvg-name="Discovery World" group-title="📺 Variedades & Documentales",Discovery World
+http://190.83.85.68:80/discovery_world/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Discovery Turbo" group-title="📺 Variedades & Documentales",Discovery Turbo
+http://190.83.85.68:80/discovery_turbo/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" group-title="📺 Variedades & Documentales",Animal Planet
+http://190.83.85.68:80/animal_planet/index.m3u8
+#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="📺 Variedades & Documentales",History
+http://190.83.85.68:80/history/index.m3u8
+#EXTINF:-1 tvg-id="History2" tvg-name="History 2" group-title="📺 Variedades & Documentales",History 2
+http://190.83.85.68:80/h2/index.m3u8
+
+# ==========================================
+# CATEGORÍA: 🇻🇪 CANALES VENEZUELA
+# ==========================================
+#EXTINF:-1 tvg-id="VTV" tvg-name="Venezolana De Televisión" group-title="🇻🇪 Canales Venezuela",Venezolana De Televisión
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=883743&extension=ts&play_token=fNmdcLPIi1
+#EXTINF:-1 tvg-id="ValeTV" tvg-name="Vale TV" group-title="🇻🇪 Canales Venezuela",Vale TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=883747&extension=ts&play_token=eSpft6lRF2
+#EXTINF:-1 tvg-id="Venevision" tvg-name="Venevisión" group-title="🇻🇪 Canales Venezuela",Venevisión
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=883730&extension=ts&play_token=thjZNd4FNu
+#EXTINF:-1 tvg-id="MeridianoTV" tvg-name="Meridiano TV" group-title="🇻🇪 Canales Venezuela",Meridiano TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=883728&extension=ts&play_token=a1k3RWtXys
+
+# ==========================================
+# CATEGORÍA: 👶 INFANTIL & KIDS
+# ==========================================
+#EXTINF:-1 tvg-id="AdultSwing" tvg-name="Adult Swing" group-title="👶 Infantil & Kids",Adult Swing
+http://191.97.61.32:8000/play/a0e1/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" group-title="👶 Infantil & Kids",Discovery Kids
+http://190.83.85.68:80/discovery_kids/index.m3u8
