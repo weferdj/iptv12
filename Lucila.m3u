@@ -1,1 +1,110 @@
-4566677
+#EXTM3U
+
+#===== COLOMBIA =====
+#EXTINF:-1 tvg-id="canalcaracol" tvg-name="Canal Caracol" group-title="Colombia",Canal Caracol
+http://152.231.29.139:8000/play/a0fm/index.m3u8
+#EXTINF:-1 tvg-id="canalrcn" tvg-name="Canal RCN" group-title="Colombia",Canal RCN
+http://152.231.29.139:8000/play/a0fn/index.m3u8
+#EXTINF:-1 tvg-id="caracol" tvg-name="Caracol" group-title="Colombia",Caracol
+http://181.119.83.235:8000/play/a03l/index.m3u8
+#EXTINF:-1 tvg-id="caracolhd" tvg-name="Caracol HD" group-title="Colombia",Caracol HD
+http://190.60.39.195:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="caracolhd2" tvg-name="Caracol HD 2" group-title="Colombia",Caracol HD 2
+http://190.60.39.218:8000/play/a08v/index.m3u8
+#EXTINF:-1 tvg-id="rcnhd" tvg-name="RCN HD" group-title="Colombia",RCN HD
+http://190.60.39.218:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="senalcolombia" tvg-name="Senal Colombia" group-title="Colombia",Senal Colombia
+http://152.231.29.139:8000/play/a0fq/index.m3u8
+
+#===== DEPORTES =====
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" group-title="Deportes",ESPN
+http://158.172.217.18:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" group-title="Deportes",ESPN 2
+http://181.119.185.32:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" group-title="Deportes",ESPN 3
+http://190.60.51.168:8000/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" group-title="Deportes",ESPN 4
+http://190.60.51.168:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" group-title="Deportes",ESPN 5
+http://190.60.51.168:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" group-title="Deportes",ESPN 6
+http://190.60.51.168:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" group-title="Deportes",ESPN 7
+http://190.60.51.168:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="winsportshd" tvg-name="Win Sports HD" group-title="Deportes",Win Sports HD
+http://181.119.203.146:8000/play/a0hz/index.m3u8
+
+#===== CINE =====
+#EXTINF:-1 tvg-id="cinecanal" tvg-name="Cinecanal" group-title="Cine",Cinecanal
+http://158.172.217.18:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="cinecanalhd" tvg-name="Cinecanal HD" group-title="Cine",Cinecanal HD
+http://152.231.29.139:8000/play/a0ef/index.m3u8
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" group-title="Cine",Cinemax
+http://158.172.217.18:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="fx" tvg-name="FX" group-title="Cine",FX
+http://158.172.217.18:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="fxhd" tvg-name="FX HD" group-title="Cine",FX HD
+http://152.231.29.139:8000/play/a0ab/index.m3u8
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" group-title="Cine",HBO
+http://158.172.217.18:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" group-title="Cine",HBO HD
+http://152.231.29.139:8000/play/a0ed/index.m3u8
+#EXTINF:-1 tvg-id="space" tvg-name="Space" group-title="Cine",Space
+http://158.172.217.18:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="spacehd" tvg-name="Space HD" group-title="Cine",Space HD
+http://152.231.29.139:8000/play/a0eh/index.m3u8
+#EXTINF:-1 tvg-id="starchannel" tvg-name="Star Channel" group-title="Cine",Star Channel
+http://158.172.217.18:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="starchannelhd" tvg-name="Star Channel HD" group-title="Cine",Star Channel HD
+http://152.231.29.139:8000/play/a0e8/index.m3u8
+#EXTINF:-1 tvg-id="universal" tvg-name="Universal" group-title="Cine",Universal
+http://158.172.217.18:8000/play/a031/index.m3u8
+
+#===== SERIES =====
+#EXTINF:-1 tvg-id="ae" tvg-name="A&E" group-title="Series",A&E
+http://158.172.217.18:8000/play/a0nb/index.m3u8
+#EXTINF:-1 tvg-id="aehd" tvg-name="A&E HD" group-title="Series",A&E HD
+http://152.231.29.139:8000/play/a0fg/index.m3u8
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" group-title="Series",AMC
+http://158.172.217.18:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="amchd" tvg-name="AMC HD" group-title="Series",AMC HD
+http://152.231.29.139:8000/play/a0hb/index.m3u8
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" group-title="Series",AXN
+http://158.172.217.18:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="axnhd" tvg-name="AXN HD" group-title="Series",AXN HD
+http://152.231.29.139:8000/play/a0ha/index.m3u8
+#EXTINF:-1 tvg-id="sony" tvg-name="Sony" group-title="Series",Sony
+http://158.172.217.18:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="sonyhd" tvg-name="Sony HD" group-title="Series",Sony HD
+http://152.231.29.139:8000/play/a0dj/index.m3u8
+#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT Series" group-title="Series",TNT Series
+http://158.172.217.18:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="tntserieshd" tvg-name="TNT Series HD" group-title="Series",TNT Series HD
+http://152.231.29.139:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="warner" tvg-name="Warner" group-title="Series",Warner
+http://158.172.217.18:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="warnerchannelhd" tvg-name="Warner Channel HD" group-title="Series",Warner Channel HD
+http://152.231.29.139:8000/play/a0ep/index.m3u8
+
+#===== INFANTILES =====
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" group-title="Infantiles",Cartoon Network
+http://158.172.217.18:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="cartoonnetworkhd" tvg-name="Cartoon Network HD" group-title="Infantiles",Cartoon Network HD
+http://152.231.29.139:8000/play/a0hn/index.m3u8
+#EXTINF:-1 tvg-id="disney" tvg-name="Disney" group-title="Infantiles",Disney
+http://181.119.215.61:8000/play/a0i8/index.m3u8
+#EXTINF:-1 tvg-id="disneyhd" tvg-name="Disney HD" group-title="Infantiles",Disney HD
+http://152.231.29.139:8000/play/a062/index.m3u8
+#EXTINF:-1 tvg-id="disneyjr" tvg-name="Disney Jr" group-title="Infantiles",Disney Jr
+http://158.172.217.18:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" group-title="Infantiles",Discovery Kids
+http://158.172.217.18:8000/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="discoverykidshd" tvg-name="Discovery Kids HD" group-title="Infantiles",Discovery Kids HD
+http://152.231.29.139:8000/play/a0ei/index.m3u8
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" group-title="Infantiles",Nickelodeon
+http://158.172.217.18:8000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="nickelodeonhd" tvg-name="Nickelodeon HD" group-title="Infantiles",Nickelodeon HD
+http://152.231.29.139:8000/play/a0hi/index.m3u8
+
+
+
