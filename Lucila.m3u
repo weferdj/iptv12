@@ -1,41 +1,12 @@
 #EXTM3U
-#EXTINF:-1,COURT TV
-http://209.215.122.166:9981/stream/channelid/1554437567?profile=pass
-#EXTINF:-1,ION TV
-http://209.215.122.166:9981/stream/channelid/198826698?profile=pass
-#EXTINF:-1,ION TV (2)
-http://209.215.122.166:9981/stream/channelid/1915236574?profile=pass
-#EXTINF:-1,TLMDO
-http://209.215.122.166:9981/stream/channelid/1125999090?profile=pass
-#EXTINF:-1,DABL
-http://209.215.122.166:9981/stream/channelid/516642571?profile=pass
-#EXTINF:-1,GRIT
-http://209.215.122.166:9981/stream/channelid/2025269820?profile=pass
-#EXTINF:-1,COURT TV (2)
-http://209.215.122.166:9981/stream/channelid/745440870?profile=pass
-#EXTINF:-1,CONFESS
-http://209.215.122.166:9981/stream/channelid/840231474?profile=pass
-#EXTINF:-1,Nosey
-http://209.215.122.166:9981/stream/channelid/2044194342?profile=pass
-#EXTINF:-1,WSFX-DT
-http://209.215.122.166:9981/stream/channelid/791460933?profile=pass
-#EXTINF:-1,FUNROAD
-http://209.215.122.166:9981/stream/channelid/449830187?profile=pass
-#EXTINF:-1,BizTV
-http://209.215.122.166:9981/stream/channelid/2128540108?profile=pass
-#EXTINF:-1,WBPI
-http://209.215.122.166:9981/stream/channelid/626117757?profile=pass
-#EXTINF:-1,ShopNow
-http://209.215.122.166:9981/stream/channelid/1808721827?profile=pass
-#EXTINF:-1,ZLiving
-http://209.215.122.166:9981/stream/channelid/677538263?profile=pass
-#EXTINF:-1,OXYGEN TRUE CRIME
-http://209.215.122.166:9981/stream/channelid/1745243256?profile=pass
-#EXTINF:-1,TELEXITOS
-http://209.215.122.166:9981/stream/channelid/167334659?profile=pass
-#EXTINF:-1,NCCHL
-http://209.215.122.166:9981/stream/channelid/544643522?profile=pass
-#EXTINF:-1,UNC-EX
-http://209.215.122.166:9981/stream/channelid/1927986828?profile=pass
-#EXTINF:-1,DSPORTS (DRM Clearkey)
-https://ablklrzaaaaaaamjp7szxdgfshgz.ta.bia-cf.live.pv-cdn.net/gru-nit ro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWe bPlayerSDK-1.0.238590.0&encoding=segmentBase
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="MPD SPORT", BEIN SPORT 1 IND
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dsports-logo-8B4D8E9F2C-seeklogo.com.png" group-title="MPD SPORT", DSPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
+https://ablklrzaaaaaaamjp7szxdgfshgz.ta.bia-cf.live.pv-cdn.net/gru-nit ro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.238590.0&encoding=segmentBase
