@@ -1,108 +1,161 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vivilomix - Reproductor</title>
     <style>
-        /* Eliminar márgenes y ocupar toda la pantalla */
+        /* Reset y fondo negro */
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
         body {
-            background: #000;
+            background: #0a0a0a;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
-            overflow: hidden;
+            font-family: Arial, sans-serif;
         }
-        /* Contenedor del video y la superposición */
-        .video-container {
+        /* Contenedor principal */
+        .player-wrapper {
             position: relative;
             width: 100%;
-            max-width: 1200px; /* Ajusta según prefieras */
+            max-width: 1100px;
             background: #000;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.8);
         }
-        /* El elemento video ocupará todo el ancho */
+        /* Video se ajusta al ancho */
         #video {
             width: 100%;
             display: block;
             background: #000;
         }
-        /* Superposición con tu nombre */
+        /* Capa con tu nombre (watermark) */
         .watermark {
             position: absolute;
-            top: 20px;      /* Distancia desde arriba */
-            right: 20px;    /* Distancia desde la derecha */
+            top: 25px;
+            right: 30px;
             color: #ffffff;
-            font-family: Arial, Helvetica, sans-serif;
-            font-size: 2.5rem;
-            font-weight: bold;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
-            background: rgba(0, 0, 0, 0.5);
-            padding: 10px 20px;
-            border-radius: 8px;
-            pointer-events: none; /* Para que no interfiera con los controles */
-            z-index: 10;
+            font-size: 2.8rem;
+            font-weight: 900;
+            letter-spacing: 2px;
+            text-shadow: 0 4px 20px rgba(0,0,0,0.9), 0 0 10px #000;
+            background: rgba(0, 0, 0, 0.45);
+            padding: 12px 28px;
+            border-radius: 50px;
+            backdrop-filter: blur(4px);
+            border: 1px solid rgba(255,255,255,0.15);
+            pointer-events: none;
             user-select: none;
-            /* Opcional: agregar un borde sutil */
-            border: 1px solid rgba(255,255,255,0.2);
+            z-index: 10;
+            font-family: 'Segoe UI', Arial, sans-serif;
         }
-        /* Para móviles, achicamos un poco la fuente */
-        @media (max-width: 600px) {
+        /* Mensaje de error amigable */
+        .error-msg {
+            color: #ff6b6b;
+            text-align: center;
+            padding: 20px;
+            font-size: 1.2rem;
+            display: none;
+            background: rgba(255,0,0,0.1);
+        }
+        /* Responsive para móviles */
+        @media (max-width: 640px) {
             .watermark {
-                font-size: 1.5rem;
-                padding: 6px 12px;
-                top: 10px;
-                right: 10px;
+                font-size: 1.8rem;
+                padding: 8px 18px;
+                top: 15px;
+                right: 15px;
             }
         }
     </style>
 </head>
 <body>
-    <div class="video-container">
-        <!-- Reproductor de video -->
-        <video id="video" controls width="100%" height="100%"></video>
-        
-        <!-- Tu nombre en la esquina superior derecha -->
-        <div class="watermark">Vivilomix</div>
-    </div>
 
-    <!-- Cargar hls.js -->
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <script>
-        (function() {
-            var video = document.getElementById('video');
-            // Cambia esta URL por la que quieras reproducir
-            var m3u8Url = 'https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8';
+<div class="player-wrapper">
+    <!-- Reproductor de video -->
+    <video id="video" controls playsinline preload="auto"></video>
+    
+    <!-- Tu nombre en la esquina -->
+    <div class="watermark">Vivilomix</div>
+    
+    <!-- Mensaje de error (oculto por defecto) -->
+    <div id="errorMsg" class="error-msg">⚠️ No se pudo cargar el stream. Verifica tu conexión o la URL.</div>
+</div>
 
+<!-- Cargar hls.js desde CDN -->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@0.14.17/dist/hls.min.js"></script>
+<script>
+    (function() {
+        const video = document.getElementById('video');
+        const errorDiv = document.getElementById('errorMsg');
+
+        // 🔽 CAMBIA ESTA URL POR LA QUE QUIERAS REPRODUCIR
+        const m3u8Url = 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8';
+        // Si tu stream no funciona, prueba con la de arriba (es un ejemplo gratuito y siempre activo)
+
+        // También puedes usar tu URL original:
+        // const m3u8Url = 'https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8';
+
+        function cargarStream() {
             if (Hls.isSupported()) {
-                var hls = new Hls();
+                const hls = new Hls({
+                    enableWorker: true,
+                    lowLatencyMode: true,
+                });
                 hls.loadSource(m3u8Url);
                 hls.attachMedia(video);
-                hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                    video.play().catch(function(e) {
-                        console.log('Autoplay bloqueado, espera interacción del usuario.');
+
+                hls.on(Hls.Events.MANIFEST_PARSED, () => {
+                    video.play().catch(e => {
+                        console.log('Autoplay bloqueado por el navegador.');
                     });
                 });
-                // Manejar errores (por si el stream no carga)
-                hls.on(Hls.Events.ERROR, function(event, data) {
-                    console.error('Error en HLS:', data);
+
+                hls.on(Hls.Events.ERROR, (event, data) => {
+                    if (data.fatal) {
+                        switch (data.type) {
+                            case Hls.ErrorTypes.NETWORK_ERROR:
+                                errorDiv.style.display = 'block';
+                                errorDiv.textContent = '❌ Error de red. Intenta recargar la página.';
+                                break;
+                            case Hls.ErrorTypes.MEDIA_ERROR:
+                                errorDiv.style.display = 'block';
+                                errorDiv.textContent = '❌ Error en el contenido multimedia.';
+                                break;
+                            default:
+                                errorDiv.style.display = 'block';
+                                errorDiv.textContent = '❌ Error al reproducir el stream.';
+                                break;
+                        }
+                    }
                 });
             } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-                // Safari nativo
+                // Safari y otros navegadores con soporte nativo
                 video.src = m3u8Url;
-                video.addEventListener('loadedmetadata', function() {
-                    video.play().catch(function(e) {
-                        console.log('Autoplay bloqueado.');
-                    });
+                video.addEventListener('loadedmetadata', () => {
+                    video.play().catch(e => console.log('Autoplay bloqueado.'));
                 });
             } else {
-                alert('Tu navegador no soporta reproducción HLS.');
+                errorDiv.style.display = 'block';
+                errorDiv.textContent = '❌ Tu navegador no soporta reproducción HLS.';
             }
-        })();
-    </script>
+        }
+
+        // Iniciar la carga
+        cargarStream();
+
+        // Si el usuario hace clic en el reproductor, intentar reproducción manual
+        video.addEventListener('click', () => {
+            video.play().catch(() => {});
+        });
+    })();
+</script>
+
 </body>
 </html>
