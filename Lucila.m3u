@@ -9,9 +9,6 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=858531&e
 #EXTINF:-1 tvg-id="MLB" tvg-name="MLB" group-title="⚾ MLB & Béisbol",MLB
 http://4ksdreams.com:80/live/574Y2T2W75YTEQG/3ogU1g4Tna/302488.ts
 
-#EXTINF:-1 tvg-id="BaseballNetwork" tvg-name="1 Baseball Network" group-title="⚾ MLB & Béisbol",1 Baseball Network
-http://ak-47scan.dyndns.tv:25461/live/DarlynCarri4/rEb75XzwEmfK/481954.ts
-
 # ==========================================
 # CATEGORÍA: 🏀 NBA & BALONCESTO
 # ==========================================
@@ -19,27 +16,24 @@ http://ak-47scan.dyndns.tv:25461/live/DarlynCarri4/rEb75XzwEmfK/481954.ts
 http://4ksdreams.com:80/live/574Y2T2W75YTEQG/3ogU1g4Tna/71986.ts
 
 # ==========================================
-# CATEGORÍA: ⚽ DEPORTES GENERALES & BEIN
+# CATEGORÍA: ⚽ DEPORTES GENERALES
 # ==========================================
-#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN 1 HD" group-title="⚽ Deportes Generales & beIN",DAZN 2 HD
-http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPNDeportesHD" tvg-name="ESPN Deportes HD" group-title="⚽ Deportes Generales",ESPN Deportes HD
+http://45.190.13.8/ESPNDeportesHD/index.m3u8
 
-#EXTINF:-1 tvg-id="BIMSport" tvg-name="BIM Sport" group-title="⚽ Deportes Generales & beIN",BIM Sport
-http://ak-47scan.dyndns.tv:25461/live/DarlynCarri4/rEb75XzwEmfK/89865.ts
-
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" group-title="⚽ Deportes Generales & beIN",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" group-title="⚽ Deportes Generales",ESPN 2
 http://138.186.23.7:8082/ESPN2/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" group-title="⚽ Deportes Generales & beIN",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" group-title="⚽ Deportes Generales",ESPN 3
 http://138.186.23.7:8082/ESPN3/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN5" tvg-name="ESPN 5" group-title="⚽ Deportes Generales & beIN",ESPN 5
+#EXTINF:-1 tvg-id="ESPN5" tvg-name="ESPN 5" group-title="⚽ Deportes Generales",ESPN 5
 http://138.186.23.7:8082/ESPN5/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN6" tvg-name="ESPN 6" group-title="⚽ Deportes Generales & beIN",ESPN 6
+#EXTINF:-1 tvg-id="ESPN6" tvg-name="ESPN 6" group-title="⚽ Deportes Generales",ESPN 6
 http://138.186.23.7:8082/ESPN6/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN7" tvg-name="ESPN 7" group-title="⚽ Deportes Generales & beIN",ESPN 7
+#EXTINF:-1 tvg-id="ESPN7" tvg-name="ESPN 7" group-title="⚽ Deportes Generales",ESPN 7
 http://138.186.23.7:8082/ESPN7/index.m3u8
 
 # ==========================================
@@ -61,7 +55,10 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=883728&e
 http://138.186.23.7:8082/CARACOL/index.m3u8
 
 #EXTINF:-1 tvg-id="Univision" tvg-name="Univision" group-title="🇻🇪 Canales Venezuela & Internacionales",Univision
-http://45.190.13.8/UnivisionHD/index.m3u8
+http://138.186.23.7:8082/UNIVISION/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" group-title="🇻🇪 Canales Venezuela & Internacionales",Telemundo
+http://190.83.2.178:8090/TELEMUNDO/index.m3u8
 
 # ==========================================
 # CATEGORÍA: 👶 INFANTIL & KIDS
@@ -75,20 +72,44 @@ http://138.186.23.7:8082/NICKJR/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" group-title="👶 Infantil & Kids",Discovery Kids
 http://138.186.23.7:8082/DISCOVERYKIDS/index.m3u8
 
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" group-title="👶 Infantil & Kids",Cartoonito
+http://190.83.2.180:8090/CARTOONITO/index.m3u8
+
 # ==========================================
 # CATEGORÍA: 📺 CINE, SERIES & ENTRETENIMIENTO
 # ==========================================
-#EXTINF:-1 tvg-id="SeriesLatina" tvg-name="Series Latina" group-title="📺 Cine, Series & Entretenimiento", WARNER 
-http://138.186.23.7:8082/WARNER/index.m3u8
+#EXTINF:-1 tvg-id="SeriesLatina" tvg-name="Series Latina" group-title="📺 Cine, Series & Entretenimiento",Series Latina
+https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="📺 Cine, Series & Entretenimiento",HBO
+http://190.83.2.180:8090/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" group-title="📺 Cine, Series & Entretenimiento",HBO 2
+http://190.83.2.180:8090/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlus" tvg-name="HBO Plus" group-title="📺 Cine, Series & Entretenimiento",HBO Plus
+http://190.83.2.180:8090/HBO_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family" group-title="📺 Cine, Series & Entretenimiento",HBO Family
+http://190.83.2.180:8090/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" group-title="📺 Cine, Series & Entretenimiento",Cinecanal
 http://138.186.23.7:8082/CINECANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="CinecanalAlt" tvg-name="Cinecanal Alt" group-title="📺 Cine, Series & Entretenimiento",Cinecanal Alt
+http://190.83.2.180:8090/CINECANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="CineLatino" tvg-name="Cine Latino" group-title="📺 Cine, Series & Entretenimiento",Cine Latino
+Http://45.190.13.8/CineLatino/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" group-title="📺 Cine, Series & Entretenimiento",Paramount
 http://138.186.23.7:8082/PARAMOUNT/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas" tvg-name="TNT Novelas" group-title="📺 Cine, Series & Entretenimiento",TNT Novelas
 http://138.186.23.7:8082/TNTNOVELAS/index.m3u8
+
+#EXTINF:-1 tvg-id="Pasiones" tvg-name="Pasiones" group-title="📺 Cine, Series & Entretenimiento",Pasiones
+Http://190.83.2.178:8090/PASIONES/index.m3u8
 
 #EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" group-title="📺 Cine, Series & Entretenimiento",Syfy
 http://138.186.23.7:8082/SYFY/index.m3u8
@@ -113,3 +134,4 @@ http://138.186.23.7:8082/ANIMALPLANET/index.m3u8
 
 #EXTINF:-1 tvg-id="ID" tvg-name="ID" group-title="🌍 Documentales & Estilo de Vida",ID
 http://138.186.23.7:8082/ID/index.m3u8
+
