@@ -1,3 +1,244 @@
-3345555
-tttyyyy
-56677788
+#EXTM3U x-tvg-url=""
+
+# ==========================================
+# CATEGORÍA: ⚾ MLB & BÉISBOL
+# ==========================================
+#EXTINF:-1 tvg-id="MLB.Network" tvg-name="MLB Network" group-title="⚾ MLB & Béisbol",MLB Network
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=858531&extension=ts&play_token=trfre3YMst
+
+#EXTINF:-1 tvg-id="MLB" tvg-name="MLB" group-title="⚾ MLB & Béisbol",MLB
+http://4ksdreams.com:80/live/574Y2T2W75YTEQG/3ogU1g4Tna/302488.ts
+
+# ==========================================
+# CATEGORÍA: 🏀 NBA & BALONCESTO
+# ==========================================
+#EXTINF:-1 tvg-id="NBA" tvg-name="NBA" group-title="🏀 NBA & Baloncesto",NBA
+http://4ksdreams.com:80/live/574Y2T2W75YTEQG/3ogU1g4Tna/71986.ts
+
+# ==========================================
+# CATEGORÍA: ⚽ DEPORTES GENERALES & DAZN
+# ==========================================
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" group-title="⚽ Deportes Generales & DAZN",ESPN 2
+http://191.97.61.32:8000/play/a091/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN 1 HD" group-title="⚽ Deportes Generales & DAZN",DAZN 1 HD
+http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN 2 HD" group-title="⚽ Deportes Generales & DAZN",DAZN 2 HD
+http://45.134.141.161:2200/ARG/DAZN_2_HD/index.m3u8
+
+# ==========================================
+# CATEGORÍA: 🇻🇪 CANALES VENEZUELA
+# ==========================================
+#EXTINF:-1 tvg-id="VTV" tvg-name="Venezolana De Televisión" group-title="🇻🇪 Canales Venezuela",Venezolana De Televisión
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=883743&extension=ts&play_token=fNmdcLPIi1
+
+#EXTINF:-1 tvg-id="ValeTV" tvg-name="Vale TV" group-title="🇻🇪 Canales Venezuela",Vale TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=883747&extension=ts&play_token=eSpft6lRF2
+
+#EXTINF:-1 tvg-id="Venevision" tvg-name="Venevisión" group-title="🇻🇪 Canales Venezuela",Venevisión
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=883730&extension=ts&play_token=thjZNd4FNu
+
+#EXTINF:-1 tvg-id="MeridianoTV" tvg-name="Meridiano TV" group-title="🇻🇪 Canales Venezuela",Meridiano TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=883728&extension=ts&play_token=a1k3RWtXys
+
+# ==========================================
+# CATEGORÍA: 👶 INFANTIL & KIDS
+# ==========================================
+#EXTINF:-1 tvg-id="AdultSwing" tvg-name="Adult Swing" group-title="👶 Infantil & Kids",Adult Swing
+http://191.97.61.32:8000/play/a0e1/index.m3u8
+
+# ==========================================
+# CATEGORÍA: ⚽ FÚTBOL INTERNACIONAL & BEIN
+# ==========================================
+#EXTINF:-1 tvg-id="bein.sports.1" tvg-name="beIN Sports 1" group-title="⚽ Fútbol Internacional & beIN",beIN Sports 1
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/1.m3u8
+
+#EXTINF:-1 tvg-id="ligue1.plus.5" tvg-name="Ligue 1+ 5" group-title="⚽ Fútbol Internacional & beIN",Ligue 1+ 5
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/2.m3u8
+
+#EXTINF:-1 tvg-id="bein.sports.3" tvg-name="beIN Sports 3" group-title="⚽ Fútbol Internacional & beIN",beIN Sports 3
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/3.m3u8
+
+#EXTINF:-1 tvg-id="bein.sports.4" tvg-name="beIN Sports 4" group-title="⚽ Fútbol Internacional & beIN",beIN Sports 4
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/4.m3u8
+
+#EXTINF:-1 tvg-id="bein.sports.5" tvg-name="beIN Sports 5" group-title="⚽ Fútbol Internacional & beIN",beIN Sports 5
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/5.m3u8
+
+#EXTINF:-1 tvg-id="bein.sports.6" tvg-name="beIN Sports 6" group-title="⚽ Fútbol Internacional & beIN",beIN Sports 6
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/6.m3u8
+
+#EXTINF:-1 tvg-id="bein.sports.7" tvg-name="beIN Sports 7" group-title="⚽ Fútbol Internacional & beIN",beIN Sports 7
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/7.m3u8
+
+#EXTINF:-1 tvg-id="bein.sports.8" tvg-name="beIN Sports 8" group-title="⚽ Fútbol Internacional & beIN",beIN Sports 8
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/8.m3u8
+
+#EXTINF:-1 tvg-id="bein.sports.9" tvg-name="beIN Sports 9" group-title="⚽ Fútbol Internacional & beIN",beIN Sports 9
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/9.m3u8
+
+#EXTINF:-1 tvg-id="bein.sports.10" tvg-name="beIN Sports 10" group-title="⚽ Fútbol Internacional & beIN",beIN Sports 10
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/10.m3u8
+
+#EXTINF:-1 tvg-id="plusfoot" tvg-name="+Foot" group-title="⚽ Fútbol Internacional & beIN",+foot
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/12.m3u8
+
+#EXTINF:-1 tvg-id="ligatv.hypermotion" tvg-name="Liga TV Hypermotion" group-title="⚽ Fútbol Internacional & beIN",liga tv hypermotion
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/53.m3u8
+
+#EXTINF:-1 tvg-id="premier" tvg-name="Premier" group-title="⚽ Fútbol Internacional & beIN",premier
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/117.m3u8
+
+# ==========================================
+# CATEGORÍA: ⚽ ESPN & DEPORTES LATAM
+# ==========================================
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="⚽ ESPN & Deportes Latam",ESPN
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/76.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.AR" tvg-name="Espn Ar" group-title="⚽ ESPN & Deportes Latam",Espn ar
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/87.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="Espn 2" group-title="⚽ ESPN & Deportes Latam",Espn 2
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/88.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="Espn 3" group-title="⚽ ESPN & Deportes Latam",Espn 3
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/89.m3u8
+
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="Espn 4" group-title="⚽ ESPN & Deportes Latam",Espn 4
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/90.m3u8
+
+#EXTINF:-1 tvg-id="ESPN5" tvg-name="Espn 5" group-title="⚽ ESPN & Deportes Latam",Espn 5
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/91.m3u8
+
+#EXTINF:-1 tvg-id="ESPN6" tvg-name="Espn 6" group-title="⚽ ESPN & Deportes Latam",Espn 6
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/92.m3u8
+
+#EXTINF:-1 tvg-id="ESPN7" tvg-name="Espn 7" group-title="⚽ ESPN & Deportes Latam",Espn 7
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/93.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.MX" tvg-name="Espn Mx" group-title="⚽ ESPN & Deportes Latam",Espn mx
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/97.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.MX" tvg-name="Espn 2 Mx" group-title="⚽ ESPN & Deportes Latam",Espn 2 mx
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/98.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3.MX" tvg-name="Espn 3 Mx" group-title="⚽ ESPN & Deportes Latam",Espn 3 mx
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/99.m3u8
+
+#EXTINF:-1 tvg-id="ESPN4.MX" tvg-name="Espn 4 MX" group-title="⚽ ESPN & Deportes Latam",Espn 4 MX
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/100.m3u8
+
+#EXTINF:-1 tvg-id="ESPNDeportes.MX" tvg-name="Espn Deportes Mx" group-title="⚽ ESPN & Deportes Latam",Espn deportes mx
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/71.m3u8
+
+# ==========================================
+# CATEGORÍA: ⚽ FOX SPORTS, TUDN & USA
+# ==========================================
+#EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" group-title="⚽ Fox Sports, TUDN & USA",TUDN
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/68.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.OP2" tvg-name="TUDN OP2" group-title="⚽ Fox Sports, TUDN & USA",TUDN OP2
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/106.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.OP3" tvg-name="TUDN OP3" group-title="⚽ Fox Sports, TUDN & USA",TUDN OP3
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/107.m3u8
+
+#EXTINF:-1 tvg-id="FoxDeportes" tvg-name="Fox Deportes" group-title="⚽ Fox Sports, TUDN & USA",Fox deportes
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/70.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" group-title="⚽ Fox Sports, TUDN & USA",Fox sports
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/78.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2" group-title="⚽ Fox Sports, TUDN & USA",Fox sports 2
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/79.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports3" tvg-name="Fox Sports 3" group-title="⚽ Fox Sports, TUDN & USA",Fox sports 3
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/80.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.MX" tvg-name="Fox Sports MX" group-title="⚽ Fox Sports, TUDN & USA",Fox sports
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/101.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2.MX" tvg-name="Fox Sports 2 MX" group-title="⚽ Fox Sports, TUDN & USA",Fox sports 2
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/102.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports3.MX" tvg-name="Fox Sports 3 MX" group-title="⚽ Fox Sports, TUDN & USA",Fox sports 3
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/103.m3u8
+
+#EXTINF:-1 tvg-id="FSPremium" tvg-name="FS Premium" group-title="⚽ Fox Sports, TUDN & USA",Fs premium
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/104.m3u8
+
+#EXTINF:-1 tvg-id="Universo" tvg-name="Universo" group-title="⚽ Fox Sports, TUDN & USA",universo
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/72.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" group-title="⚽ Fox Sports, TUDN & USA",Telemundo
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/73.m3u8
+
+#EXTINF:-1 tvg-id="Azteca7" tvg-name="Azteca 7" group-title="⚽ Fox Sports, TUDN & USA",azteca 7
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/108.m3u8
+
+#EXTINF:-1 tvg-id="AYM" tvg-name="AYM Sports" group-title="⚽ Fox Sports, TUDN & USA",AYM
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/105.m3u8
+
+# ==========================================
+# CATEGORÍA: ⚽ FÚTBOL SUDAMERICANO & LOCAL
+# ==========================================
+#EXTINF:-1 tvg-id="TyCSports" tvg-name="TyC Sports" group-title="⚽ Fútbol Sudamericano & Local",tyc soports
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/77.m3u8
+
+#EXTINF:-1 tvg-id="TNTPremium" tvg-name="TNT Sports Premium" group-title="⚽ Fútbol Sudamericano & Local",tnt premium
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/75.m3u8
+
+#EXTINF:-1 tvg-id="TNTSportsPremium" tvg-name="TNT Sports Premium" group-title="⚽ Fútbol Sudamericano & Local",tnt sports premium
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/83.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports1" tvg-name="TNT Sports 1 HBO" group-title="⚽ Fútbol Sudamericano & Local",tnt sports 1 HBO
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/126.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports2" tvg-name="TNT Sports 2 HBO" group-title="⚽ Fútbol Sudamericano & Local",tnt sports 2 HBO
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/130.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports3" tvg-name="TNT Sports 3 HBO" group-title="⚽ Fútbol Sudamericano & Local",tnt sports 3 HBO
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/131.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports4" tvg-name="TNT Sports 4 HBO" group-title="⚽ Fútbol Sudamericano & Local",tnt sports 4 HBO
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/132.m3u8
+
+#EXTINF:-1 tvg-id="WinSportsPlus" tvg-name="Win Sports +" group-title="⚽ Fútbol Sudamericano & Local",win sports +
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/81.m3u8
+
+#EXTINF:-1 tvg-id="WinSports" tvg-name="Win Sports" group-title="⚽ Fútbol Sudamericano & Local",win sports
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/82.m3u8
+
+#EXTINF:-1 tvg-id="L1MAX" tvg-name="L1 MAX" group-title="⚽ Fútbol Sudamericano & Local",L1 MAX
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/84.m3u8
+
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" group-title="⚽ Fútbol Sudamericano & Local",dsports
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/94.m3u8
+
+#EXTINF:-1 tvg-id="DSports2" tvg-name="DSports 2" group-title="⚽ Fútbol Sudamericano & Local",DSports 2
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/95.m3u8
+
+#EXTINF:-1 tvg-id="DSportsPlus" tvg-name="DSports +" group-title="⚽ Fútbol Sudamericano & Local",DSports +
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/96.m3u8
+
+# ==========================================
+# CATEGORÍA: ⚽ DAZN & OTROS
+# ==========================================
+#EXTINF:-1 tvg-id="DAZN56" tvg-name="DAZN 1" group-title="⚽ DAZN & Otros",DAZN
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/56.m3u8
+
+#EXTINF:-1 tvg-id="DAZN155" tvg-name="DAZN" group-title="⚽ DAZN & Otros",DAZN
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/155.m3u8
+
+#EXTINF:-1 tvg-id="DAZN156" tvg-name="DAZN" group-title="⚽ DAZN & Otros",DAZN
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/156.m3u8
+
+#EXTINF:-1 tvg-id="DAZN157" tvg-name="DAZN" group-title="⚽ DAZN & Otros",DAZN
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/157.m3u8
+
+#EXTINF:-1 tvg-id="DAZN158" tvg-name="DAZN" group-title="⚽ DAZN & Otros",DAZN
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/158.m3u8
+
+#EXTINF:-1 tvg-id="IAS" tvg-name="IAS" group-title="⚽ DAZN & Otros",IAS
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/74.m3u8
