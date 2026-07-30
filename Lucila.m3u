@@ -1,4 +1,49 @@
-445
---+++8
-5566
-455
+#EXTM3U x-tvg-url=""
+
+# ==========================================
+# CATEGORÍA: ⚾ MLB & BÉISBOL
+# ==========================================
+#EXTINF:-1 tvg-id="MLB.Network" tvg-name="MLB Network" group-title="⚾ MLB & Béisbol",MLB Network
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=858531&extension=ts&play_token=trfre3YMst
+
+#EXTINF:-1 tvg-id="MLB" tvg-name="MLB" group-title="⚾ MLB & Béisbol",MLB
+http://4ksdreams.com:80/live/574Y2T2W75YTEQG/3ogU1g4Tna/302488.ts
+
+#EXTINF:-1 tvg-id="BaseballNetwork" tvg-name="1 Baseball Network" group-title="⚾ MLB & Béisbol",1 Baseball Network
+http://ak-47scan.dyndns.tv:25461/live/DarlynCarri4/rEb75XzwEmfK/481954.ts
+
+# ==========================================
+# CATEGORÍA: 🏀 NBA & BALONCESTO
+# ==========================================
+#EXTINF:-1 tvg-id="NBA" tvg-name="NBA" group-title="🏀 NBA & Baloncesto",NBA
+http://4ksdreams.com:80/live/574Y2T2W75YTEQG/3ogU1g4Tna/71986.ts
+
+# ==========================================
+# CATEGORÍA: ⚽ DEPORTES GENERALES & BEIN
+# ==========================================
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN 2 HD" group-title="⚽ Deportes Generales & beIN",DAZN 2 HD
+http://45.134.141.161:2200/ARG/DAZN_2_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="BIMSport" tvg-name="BIM Sport" group-title="⚽ Deportes Generales & beIN",BIM Sport
+Http://ak-47scan.dyndns.tv:25461/live/DarlynCarri4/rEb75XzwEmfK/89865.ts
+
+# ==========================================
+# CATEGORÍA: 🇻🇪 CANALES VENEZUELA
+# ==========================================
+#EXTINF:-1 tvg-id="VTV" tvg-name="Venezolana De Televisión" group-title="🇻🇪 Canales Venezuela",Venezolana De Televisión
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=883743&extension=ts&play_token=fNmdcLPIi1
+
+#EXTINF:-1 tvg-id="ValeTV" tvg-name="Vale TV" group-title="🇻🇪 Canales Venezuela",Vale TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=883747&extension=ts&play_token=eSpft6lRF2
+
+#EXTINF:-1 tvg-id="Venevision" tvg-name="Venevisión" group-title="🇻🇪 Canales Venezuela",Venevisión
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=883730&extension=ts&play_token=thjZNd4FNu
+
+#EXTINF:-1 tvg-id="MeridianoTV" tvg-name="Meridiano TV" group-title="🇻🇪 Canales Venezuela",Meridiano TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=883728&extension=ts&play_token=a1k3RWtXys
+
+# ==========================================
+# CATEGORÍA: 📺 SERIES & ENTERTAINMENT
+# ==========================================
+#EXTINF:-1 tvg-id="SeriesLatina" tvg-name="Series Latina" group-title="📺 Series y Entretenimiento",Series Latina
+https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
