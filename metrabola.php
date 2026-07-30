@@ -1,1 +1,24 @@
+<!DOCTYPE html>
+<html style="height:100%; margin:0; overflow:hidden;">
+<body style="height:100%; margin:0; background:#000;">
+  <div id="player" style="width:100%; height:100%;"></div>
 
+  <script src="https://ssl.p.jwpcdn.com/player/v/8.22.0/jwplayer.js"></script>
+  <script>
+    jwplayer("player").setup({
+      width: "100%",
+      height: "100%",
+      aspectratio: "16:9",  // 核心：强制锁定宽高比
+      title: "Valerian ve Bin Gezegen İmparatorluğu",
+      key: "cLGMn8T20tGvW+0eXPhq4NNmLB57TrscPjd1IyJF84o=",
+      sources: [
+        { file: "https://cdn.fluidplayer.com/videos/valerian-480p.mkv", label: "480p", default: "true" },
+        { file: "https://cdn.fluidplayer.com/videos/valerian-720p.mkv", label: "720p" },
+        { file: "https://cdn.fluidplayer.com/videos/valerian-1080p.mkv", label: "1080p" }
+      ],
+      image: "https://cdn-w1.netlify.com/cagatayldzz.com/2020/pbgRkz.jpg",
+      primary: "html5"
+    });
+  </script>
+</body>
+</html>
