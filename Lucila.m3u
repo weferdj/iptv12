@@ -21,7 +21,7 @@ http://4ksdreams.com:80/live/574Y2T2W75YTEQG/3ogU1g4Tna/71986.ts
 # ==========================================
 # CATEGORÍA: ⚽ DEPORTES GENERALES & BEIN
 # ==========================================
-#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN 2 HD" group-title="⚽ Deportes Generales & beIN",DAZN 2 HD
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN 1 HD" group-title="⚽ Deportes Generales & beIN",DAZN 2 HD
 http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="BIMSport" tvg-name="BIM Sport" group-title="⚽ Deportes Generales & beIN",BIM Sport
@@ -61,7 +61,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:03:A8:A9&stream=883728&e
 http://138.186.23.7:8082/CARACOL/index.m3u8
 
 #EXTINF:-1 tvg-id="Univision" tvg-name="Univision" group-title="🇻🇪 Canales Venezuela & Internacionales",Univision
-http://138.186.23.7:8082/UNIVISION/index.m3u8
+http://45.190.13.8/UnivisionHD/index.m3u8
 
 # ==========================================
 # CATEGORÍA: 👶 INFANTIL & KIDS
