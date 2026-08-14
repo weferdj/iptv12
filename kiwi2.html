@@ -2,83 +2,55 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Stream Local - Sin Publicidad</title>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://content.jwplatform.com/libraries/IDzF9Zmk.js"></script>
-    <script src="https://cdn.rawgit.com/jpillora/xhook/1.4.9/dist/xhook.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>TV 16:9 Fullscreen</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        body, html {
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html, body {
             width: 100%;
             height: 100%;
             background: #000;
+            overflow: hidden;
             display: flex;
             justify-content: center;
             align-items: center;
         }
-        /* Contenedor con relación 16:9 y tamaño máximo */
-        #player-wrapper {
-            width: 100%;
-            max-width: 1280px;   /* Ajusta según prefieras */
-            aspect-ratio: 16 / 9;
-            background: #000;
-        }
-        #player {
+        video {
             width: 100%;
             height: 100%;
+            object-fit: contain; /* 16:9 fijo sin deformar */
+            background: #000;
+            display: block;
         }
     </style>
 </head>
 <body>
+    <video id="video" controls autoplay muted playsinline></video>
 
-    <div id="player-wrapper">
-        <div id="player"></div>
-    </div>
-
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
     <script>
-        // 🔴 NUEVO STREAM (el que me pediste)
-        var url = "https://proxy.cors.sh/https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8";
-        
-        // Las claves DRM anteriores ya no son necesarias para este stream,
-        // pero dejo el interceptor por si acaso (no afecta).
-        var key = atob("ZGF0YTphcHBsaWNhdGlvbi9vY3RldC1zdHJlYW07YmFzZTY0LDFDM0crb2x0bjY4a20xOS9rZXpUd3c9PQ==");
-        var lang = "en";
-        var audioTrackSet = false;
+        const video = document.getElementById('video');
+        // Usa esta URL con proxy CORS
+        const streamUrl = 'https://proxy.cors.sh/https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8';
 
-        $(document).ready(function() {
-            // Interceptor para llaves de cifrado (solo aplica si el stream lo requiere)
-            xhook.before(function(request) {
-                if (request.url.includes('cbsi.live.ott.irdeto.com')) {
-                    request.url = key;
-                }
+        if (Hls.isSupported()) {
+            const hls = new Hls({ enableWorker: true, lowLatencyMode: true });
+            hls.loadSource(streamUrl);
+            hls.attachMedia(video);
+            hls.on(Hls.Events.MANIFEST_PARSED, () => {
+                video.play().catch(e => console.warn('Autoplay bloqueado. Haz clic en play.'));
             });
-
-            // Configuración del reproductor
-            var player = jwplayer("player").setup({
-                playlist: [{
-                    "sources": [{
-                        "default": true,
-                        "type": "hls",
-                        "file": url,
-                        "label": "auto"
-                    }]
-                }],
-                width: "100%",
-                height: "100%",
-                autostart: true,
-                mute: false,
-                controls: true
+            hls.on(Hls.Events.ERROR, (event, data) => {
+                if (data.fatal) alert('Error al cargar el stream. Revisa la URL o el proxy.');
             });
-
-            // Al hacer clic en el contenedor, entra en pantalla completa (interacción de usuario)
-            $("#player-wrapper").on("click", function() {
-                player.requestFullscreen();
+        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+            video.src = streamUrl;
+            video.addEventListener('loadedmetadata', () => {
+                video.play().catch(e => console.warn('Autoplay bloqueado.'));
             });
-        });
+        } else {
+            alert('Tu navegador no soporta HLS.');
+        }
     </script>
 </body>
 </html>
