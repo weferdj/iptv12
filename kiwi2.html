@@ -23,7 +23,7 @@
         /* Contenedor con relación 16:9 y tamaño máximo */
         #player-wrapper {
             width: 100%;
-            max-width: 1280px;   /* opcional, ajusta según prefieras */
+            max-width: 1280px;   /* Ajusta según prefieras */
             aspect-ratio: 16 / 9;
             background: #000;
         }
@@ -40,13 +40,17 @@
     </div>
 
     <script>
-        var url = atob("aHR0cHM6Ly9kYWkuZ29vZ2xlLmNvbS9saW5lYXIvaGxzL3BhL2V2ZW50L1o5MUl6OWYwVGstNUxLbHN1Nnp4U2cvc3RyZWFtLzg1YmZkZTBmLTllZDctNDY0NC1iOTYxLTM2NWUxZWJkYjhkMzpTQ0wyL21hc3Rlci5tM3U4");
+        // 🔴 NUEVO STREAM (el que me pediste)
+        var url = "https://proxy.cors.sh/https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8";
+        
+        // Las claves DRM anteriores ya no son necesarias para este stream,
+        // pero dejo el interceptor por si acaso (no afecta).
         var key = atob("ZGF0YTphcHBsaWNhdGlvbi9vY3RldC1zdHJlYW07YmFzZTY0LDFDM0crb2x0bjY4a20xOS9rZXpUd3c9PQ==");
         var lang = "en";
         var audioTrackSet = false;
 
         $(document).ready(function() {
-            // Interceptor para las llaves de cifrado
+            // Interceptor para llaves de cifrado (solo aplica si el stream lo requiere)
             xhook.before(function(request) {
                 if (request.url.includes('cbsi.live.ott.irdeto.com')) {
                     request.url = key;
@@ -67,18 +71,10 @@
                 height: "100%",
                 autostart: true,
                 mute: false,
-                // Opcional: mostrar controles siempre
-                controls: true,
-                // Opcional: ocultar el logo de JWPlayer (si tienes licencia)
-                // logo: { hide: true }
+                controls: true
             });
 
-            // Intenta entrar en pantalla completa automáticamente (puede ser bloqueado)
-            // Para mayor fiabilidad, lo ejecutamos tras un clic del usuario.
-            // Aquí lo dejamos comentado, pero puedes descomentar y probar:
-            // player.requestFullscreen();
-
-            // Alternativa: al hacer clic en cualquier parte del contenedor
+            // Al hacer clic en el contenedor, entra en pantalla completa (interacción de usuario)
             $("#player-wrapper").on("click", function() {
                 player.requestFullscreen();
             });
