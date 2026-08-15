@@ -1,10 +1,107 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://img.mlbstatic.com/mlb/images/team-logos/119.svg" group-title="MLB",MLB - Dodgers vs Brewers
-https://webcast-origin.b-cdn.net/bcdn_token=pS7eoBV0JyLiLx1xsOdaFD-yPuNyaQEMEZoe1Tq9gNA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhElkJJ36sE5m_ABEhUzYefj%2F&expires=1786688112/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhElkJJ36sE5m_ABEhUzYefj/133.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.mlbstatic.com/mlb/images/team-logos/108.svg" group-title="MLB",MLB - Angels vs Rangers (CDN)
-https://webcast-origin.b-cdn.net/bcdn_token=hIyzjej75Ld-w7axQFY5It6Y26mznINead61BezuXmY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxJMlG-DpB7o74IHhyl3Og%2F&expires=1786689532/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxJMlG-DpB7o74IHhyl3Og/106.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.mlbstatic.com/mlb/images/team-logos/108.svg" group-title="MLB",MLB - Angels vs Rangers (TheGameHD)
-https://s3.thegamehd.top/auth/106.m3u8?token=sD6A3GvJRF6hCQayL3_1B39Qk9KgHSstk8yH0SOaa3Vwd0dmtu1pt96yFaUQ740YI2NHYKKFuvg542-Ojz7d3EMXIGmfuAFHR2V-6zGVCi6tkfDlpZ08HuAkY8WKd0F4ia5DyOV1S_ccINAKciT539JHvB3YYu92zc35F1I8FmvOVCAPte5D-OtxIqCI4z96XqCLXF2lxVkZvd4lpzYNozAsUA8VcFILYkfqc09lO0B0NQN2BREAiI-ukz5BTdkv8DiZbXvsOomAlA_x57ffHkoVB0FE7cR7pDabGVtDpXn7991f4VC56c2CgXFvBAX7ZEAj-lBW9wijWA8uZkgpte_2ObHTVHAMk3m0ZrNLEVxAXFWaiuN8jByIeNfJzNpYzJmTQYk2YJb7E9n9jaeVI7MvsfUWnB3KC4ItGE4eRRr-kDlDDGYGLjjsV9hN9kh61z0eV7JvNeEimOM54MYhdu1NGnTd_UIwTWTeoE1BkrQn4CqC1VwNcYVgHlqOO2gSofI0Vbi4NkkU7o6QUZL6kSa8PpHosp5Toe1Gc2dDa9ufOg4uhlfgYUh3EKfBMe-Y8gSTiJYbvLKKOKwGaD_oD3Domp-9qp3FEDlvndyMNVm4w8ZLxugOQle7alAK1Snq
+#EXTINF:-1,TVE HD
+https://streamer.metronethn.com/TVE/playlist.m3u8
+#EXTINF:-1,AMC HD
+https://streamer.metronethn.com/AMC/playlist.m3u8
+#EXTINF:-1,A&E HD
+https://streamer.metronethn.com/AE/playlist.m3u8
+#EXTINF:-1,AXN HD
+https://streamer.metronethn.com/AXN/playlist.m3u8
+#EXTINF:-1,TCM HD
+https://streamer.metronethn.com/TCM/playlist.m3u8
+#EXTINF:-1,TNT HD
+https://streamer.metronethn.com/TNT/playlist.m3u8
+#EXTINF:-1,TLC HD
+https://streamer.metronethn.com/TLC/index.m3u8
+#EXTINF:-1,HBO HD
+https://streamer.metronethn.com/HBO/playlist.m3u8
+#EXTINF:-1,HBO 2 HD
+https://streamer.metronethn.com/HBO2/playlist.m3u8
+#EXTINF:-1,HBO Plus
+https://streamer.metronethn.com/HBOPlus/playlist.m3u8
+#EXTINF:-1,HBO Family
+https://streamer.metronethn.com/HBOFamily/playlist.m3u8
+#EXTINF:-1,HBO Xtreme
+https://streamer.metronethn.com/HBOXtreme/playlist.m3u8
+#EXTINF:-1,ESPN 6 HD
+https://streamer.metronethn.com/ESPN6/index.m3u8
+#EXTINF:-1,Pasiones
+https://streamer.metronethn.com/Pasiones/index.m3u8
+#EXTINF:-1,Cinemax
+https://streamer.metronethn.com/Cinemax/index.m3u8
+#EXTINF:-1,Warner TV HD
+https://streamer.metronethn.com/Warner/index.m3u8
+#EXTINF:-1,SONY HD
+https://streamer.metronethn.com/SONY/index.m3u8
+#EXTINF:-1,SONY MOVIES HD
+https://streamer.metronethn.com/SonyMovies/index.m3u8
+#EXTINF:-1,SPACE HD
+https://streamer.metronethn.com/Space/index.m3u8
+#EXTINF:-1,TNT Series HD
+https://streamer.metronethn.com/TNT_Series/index.m3u8
+#EXTINF:-1,TNT Novelas HD
+https://streamer.metronethn.com/TNT_NOVELAS/playlist.m3u8
+#EXTINF:-1,Telemundo HD
+https://streamer.metronethn.com/Telemundo/index.m3u8
+#EXTINF:-1,Studio Universal
+https://streamer.metronethn.com/StudioUniversal/playlist.m3u8
+#EXTINF:-1,Universal
+https://streamer.metronethn.com/Universal/index.m3u8
+#EXTINF:-1,Univision HD
+https://streamer.metronethn.com/Univision/index.m3u8
+#EXTINF:-1,MTV HD
+https://streamer.metronethn.com/MTV/index.m3u8
+#EXTINF:-1,NatGeo HD
+https://streamer.metronethn.com/NatGeo/index.m3u8
+#EXTINF:-1,HISTORY HD
+https://streamer.metronethn.com/History/index.m3u8
+#EXTINF:-1,HISTORY 2 HD
+https://streamer.metronethn.com/H2/index.m3u8
+#EXTINF:-1,Discovery World HD
+https://streamer.metronethn.com/DiscoveryWorld/index.m3u8
+#EXTINF:-1,Discovery channel
+https://streamer.metronethn.com/Discovery/index.m3u8
+#EXTINF:-1,Discovery ID
+https://streamer.metronethn.com/DiscoveryID/index.m3u8
+#EXTINF:-1,Discovery Turbo
+https://streamer.metronethn.com/DiscoveryTurbo/index.m3u8
+#EXTINF:-1,Discovery Science HD
+https://streamer.metronethn.com/DiscoveryScience/index.m3u8
+#EXTINF:-1,Discovery Theater HD
+https://streamer.metronethn.com/DiscoveryTheater/index.m3u8
+#EXTINF:-1,Discovery HH HD
+https://streamer.metronethn.com/DiscoveryHH/index.m3u8
+#EXTINF:-1,Animal Planet HD
+https://streamer.metronethn.com/AnimalPlanet/index.m3u8
+#EXTINF:-1,HGTV HD
+https://streamer.metronethn.com/HGTV/index.m3u8
+#EXTINF:-1,Lifetime
+https://streamer.metronethn.com/Lifetime/index.m3u8
+#EXTINF:-1,AdultSwim
+https://streamer.metronethn.com/AdultSwim/index.m3u8
+#EXTINF:-1,DisneyJR
+https://streamer.metronethn.com/DisneyJR/index.m3u8
+#EXTINF:-1,Tooncast
+https://streamer.metronethn.com/Tooncast/index.m3u8
+#EXTINF:-1,Cartoonito HD
+https://streamer.metronethn.com/Cartoonito/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+https://streamer.metronethn.com/CartoonNetwork/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+https://streamer.metronethn.com/DiscoveryKids/index.m3u8
+#EXTINF:-1,BabyTV
+https://streamer.metronethn.com/BabyTV/index.m3u8
+#EXTINF:-1,VTV
+https://streamer.metronethn.com/VTV/index.m3u8
+#EXTINF:-1,Canal11
+https://streamer.metronethn.com/Canal11/index.m3u8
+#EXTINF:-1,RCN Novelas
+https://streamer.metronethn.com/RCNNovelas/index.m3u8
+#EXTINF:-1,Antena3
+https://streamer.metronethn.com/Antena3/index.m3u8
+#EXTINF:-1,BBC News
+https://streamer.metronethn.com/BBC_News/index.m3u8
+#EXTINF:-1,France24
+https://streamer.metronethn.com/France24/index.m3u8
+#EXTINF:-1,RT
+https://streamer.metronethn.com/RT/index.m3u8
