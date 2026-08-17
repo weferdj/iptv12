@@ -1,1 +1,5 @@
+#EXTINF:-1 tvg-id="" tvg-name="Canal Live" group-title="En Vivo", Canal Live
+#EXTVLCOPT:http-referrer=https://c005.e4.mediastreamia.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://c005.e4.mediastreamia.com/live.m3u8?token=a8968da0-5dc7-4f56-b542-8eb140837561
 
