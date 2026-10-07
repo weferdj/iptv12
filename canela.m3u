@@ -11,6 +11,8 @@ http://38.137.192.250:8000/play/a05q
 http://38.137.192.250:8000/play/okok
 #EXTINF:-1 tvg-id="CyVEstrenos" tvg-name="CyV Estrenos" tvg-logo="" group-title="Películas",CyV Estrenos
 http://38.137.192.250:8000/play/fe2s
+#EXTINF:-1 tvg-id="NetflixLive" tvg-name="Netflix Live" tvg-logo="" group-title="Películas",Netflix Live
+https://stream-cdn-iad3.vaughnsoft.net/play/live_a_neflix01.flv
 #EXTINF:-1 tvg-id="BeinSport1TR" tvg-name="Bein-Sport 1 HD" tvg-logo="" group-title="Turquía",Bein-Sport 1 HD
 http://tv.atomspor.workers.dev/?ID=bein-sports-1
 #EXTINF:-1 tvg-id="BeinSport2TR" tvg-name="Bein-Sport 2 HD" tvg-logo="" group-title="Turquía",Bein-Sport 2 HD
@@ -21,7 +23,7 @@ http://tv.atomspor.workers.dev/?ID=bein-sports-3
 http://tv.atomspor.workers.dev/?ID=bein-sports-4
 #EXTINF:-1 tvg-id="BeinSport5TR" tvg-name="Bein-Sport 5 HD" tvg-logo="" group-title="Turquía",Bein-Sport 5 HD
 http://tv.atomspor.workers.dev/?ID=bein-sports-5
-#EXTINF:-1 tvg-id="BeinSportMax1TR" tvg-name="Bein-Sport 1 Max HD" tvg-logo="" group-title="Turquía",Bein-Sport 1 Max HD
+#EXTINF:-1 tvg-id="BeinSport1MaxTR" tvg-name="Bein-Sport 1 Max HD" tvg-logo="" group-title="Turquía",Bein-Sport 1 Max HD
 http://tv.atomspor.workers.dev/?ID=bein-sports-max-1
-#EXTINF:-1 tvg-id="BeinSportMax2TR" tvg-name="Bein-Sport 2 Max HD" tvg-logo="" group-title="Turquía",Bein-Sport 2 Max HD
+#EXTINF:-1 tvg-id="BeinSport2MaxTR" tvg-name="Bein-Sport 2 Max HD" tvg-logo="" group-title="Turquía",Bein-Sport 2 Max HD
 http://tv.atomspor.workers.dev/?ID=bein-sports-max-2
