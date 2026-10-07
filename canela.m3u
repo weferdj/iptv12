@@ -1,2 +1,5 @@
-ttty
-gyy
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="Deportes",FOX MX
+http://181.78.49.179:8000/play/a090
+
+
