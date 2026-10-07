@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="Deportes",FOX MX
 http://181.78.49.179:8000/play/a090
 #EXTINF:-1 tvg-id="ESPNHD" tvg-name="ESPN HD" tvg-logo="" group-title="Deportes",ESPN HD
-http://TU_SERVIDOR_AUTORIZADO/play/CODIGO1
+http://38.137.192.250:8000/play/a0b5
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="" group-title="Deportes",ESPN 2
 http://TU_SERVIDOR_AUTORIZADO/play/CODIGO2
 
