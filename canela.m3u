@@ -7,3 +7,5 @@ http://38.137.192.250:8000/play/a0b5
 http://38.137.192.250:8000/play/a01q
 #EXTINF:-1 tvg-id="TNTEste" tvg-name="TNT Este" tvg-logo="" group-title="Películas",TNT Este
 http://38.137.192.250:8000/play/a05q
+#EXTINF:-1 tvg-id="GvmPeliculasAccion" tvg-name="Gvm Películas Accion" tvg-logo="" group-title="Películas",Gvm Películas Accion
+http://38.137.192.250:8000/play/okok
