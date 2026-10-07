@@ -1,2 +1,12 @@
-rtuu
-hhjj
+#EXTM3U
+#EXTINF:-1 tvg-id="FoxMX" tvg-name="FOX MX" tvg-logo="" group-title="Deportes",FOX MX
+http://181.78.49.179:8000/play/a090
+#EXTINF:-1 tvg-id="ESPNHD" tvg-name="ESPN HD" tvg-logo="" group-title="Deportes",ESPN HD
+http://38.137.192.250:8000/play/a0b5
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="" group-title="Deportes",ESPN 2
+http://38.137.192.250:8000/play/a01q
+#EXTINF:-1 tvg-id="TNTEste" tvg-name="TNT Este" tvg-logo="" group-title="Películas",TNT Este
+http://38.137.192.250:8000/play/a05q
+#EXTINF:-1 tvg-id="GvmPeliculasAccion" tvg-name="Gvm Películas Accion" tvg-logo="" group-title="Películas",Gvm Películas Accion
+http://38.137.192.250:8000/play/okok
+
